@@ -23,6 +23,8 @@ IN PROGRESS
 
 [linkedin]: https://linkedin.com/in/Josh
 
-<h2>>👨‍💻Full Stack Development Projects: </h2>
-- <b>[WalletWhiz Full Stack Project]</b>
-  -[WalletWhiz FullStack Project](https://github.com/JOmega12/capstone-project-money)
+ <h2>⚛️ Software Development Projects:</h2>
+ 
+  - [Full-stack: WalletWhiz Finance App (Python | Typescript)](https://github.com/JOmega12/capstone-project-money)
+  - [Full-Stack: WelcomeCoffee (Typescript)](https://github.com/JOmega12/welcomeCoffeeExpress)
+  - [Puppy Cafe Hackathon](https://github.com/JOmega12/hackathon-devlopes)
