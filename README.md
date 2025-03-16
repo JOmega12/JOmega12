@@ -23,6 +23,6 @@ IN PROGRESS
 
 [linkedin]: https://linkedin.com/in/Josh
 
-<h2>>👨‍💻Full Stack Development Projects</h2>h2>
-- <b></b>
-  - 
+<h2>>👨‍💻Full Stack Development Projects: </h2>
+- <b>[WalletWhiz Full Stack Project]</b>
+  -[WalletWhiz FullStack Project](https://github.com/JOmega12/capstone-project-money)
