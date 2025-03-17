@@ -10,13 +10,14 @@
 
 IN PROGRESS
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]()
-  - [osTicket: Post-Installation Configuration]()
-  - [osTicket: Ticket Lifecycle Examples]()
+  - [osTicket: Prerequisites and Installation](https://github.com/JOmega12/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/JOmega12/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JOmega12/osTicket-Ticket-Lifecycle-Examples)
 - <b>Active Directory</b>
-  - [Active Directory: Setup with Virtual Machines]()
-  - [Active Directory: Deployment and Configuration]()
-  - [Active Directory: Generating Users]()
+  - [Active Directory: Setup with Virtual Machines](https://github.com/JOmega12/Active-Directory-Setup-with-Virtual-Machines)
+  - [Active Directory: Deployment and Configuration](https://github.com/JOmega12/Active-Directory-Deployment-and-Configuration)
+  - [Active Directory: Generating Users](https://github.com/JOmega12/Active-Directory-Generating-Users)
+  - [Active Directory: Practical Uses](https://github.com/JOmega12/Active-Directory-Practical-Uses)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
