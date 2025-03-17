@@ -21,14 +21,14 @@ IN PROGRESS
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/Josh
-
  <h2>⚛️ Software Development Projects:</h2>
  
   - [Full-stack: WalletWhiz Finance App (Python | Typescript)](https://github.com/JOmega12/capstone-project-money)
   - [Full-Stack: WelcomeCoffee (Typescript)](https://github.com/JOmega12/welcomeCoffeeExpress)
   - [Puppy Cafe Hackathon](https://github.com/JOmega12/hackathon-devlopes)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/Josh
