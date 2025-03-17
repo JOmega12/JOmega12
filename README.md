@@ -16,7 +16,7 @@ IN PROGRESS
 - <b>Active Directory</b>
   - [Active Directory: Setup with Virtual Machines]()
   - [Active Directory: Deployment and Configuration]()
-  - [Active Directory: Genrating Users]()
+  - [Active Directory: Generating Users]()
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
