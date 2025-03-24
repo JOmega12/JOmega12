@@ -19,7 +19,6 @@ IN PROGRESS
   - [Active Directory: Generating Users](https://github.com/JOmega12/Active-Directory-Generating-Users)
   - [Active Directory: Practical Uses](https://github.com/JOmega12/Active-Directory-Practical-Uses)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
  <h2>⚛️ Software Development Projects:</h2>
