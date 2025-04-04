@@ -19,7 +19,7 @@ IN PROGRESS
   - [Active Directory: Generating Users](https://github.com/JOmega12/Active-Directory-Generating-Users)
   - [Active Directory: Practical Uses](https://github.com/JOmega12/Active-Directory-Practical-Uses)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JOmega12/azure-network-protocols)
 
  <h2>⚛️ Software Development Projects:</h2>
  
