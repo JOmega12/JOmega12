@@ -6,6 +6,7 @@
 <h1>Hi, I'm Jensen, an <a href="https://www.linkedin.com/in/jensen-omega/">Developer and Analyst</a>☺</h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
+
 - <b>Currently In progress for Finishing Correlation One Data Analytics. Estimated finish with is June 2026</b>
 - <b>Thank you for being patient as I will bring out more projects!</b>
 
