@@ -6,18 +6,23 @@
 <h1>Hi, I'm Jensen, an <a href="https://www.linkedin.com/in/jensen-omega/">Developer and Analyst</a>☺</h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
-- <b>Currently In progress. Estimated finish is June 2026</b>
+- <b>Currently In progress for Finishing Correlation One Data Analytics. Estimated finish with is June 2026</b>
+- <b>Thank you for being patient as I will bring out more projects!</b>
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JOmega12/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/JOmega12/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JOmega12/osTicket-Ticket-Lifecycle-Examples)
+  
 - <b>Active Directory</b>
   - [Active Directory: Setup with Virtual Machines](https://github.com/JOmega12/Active-Directory-Setup-with-Virtual-Machines)
   - [Active Directory: Deployment and Configuration](https://github.com/JOmega12/Active-Directory-Deployment-and-Configuration)
   - [Active Directory: Generating Users](https://github.com/JOmega12/Active-Directory-Generating-Users)
   - [Active Directory: Practical Uses](https://github.com/JOmega12/Active-Directory-Practical-Uses)
+
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JOmega12/azure-network-protocols)
 
