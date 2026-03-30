@@ -3,12 +3,12 @@
 - 📩 omega90ej@gmail.com
 - 📺 [https://www.linkedin.com/in/jensen-omega-61854514b/](https://www.linkedin.com/in/jensen-omega/)
 
-<h1>Hi, I'm Jensen, an <a href="https://www.linkedin.com/in/jensen-omega/">IT Professional and Software Developer</a>☺</h1>
+<h1>Hi, I'm Jensen, an <a href="https://www.linkedin.com/in/jensen-omega/">Developer and Analyst</a>☺</h1>
+
+<h2>👨‍💻 Data Analyst Projects:</h2>
+- <b>Currently In progress. Estimated finish is June 2026</b>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
-
-IN PROGRESS
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JOmega12/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/JOmega12/osTicket-Post-Installation-Configuration)
